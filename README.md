@@ -38,6 +38,8 @@ Visitor submits form → Secured webhook validates → Data sanitization cleans 
 Total Time: 2.1 seconds. Zero human intervention.
 ```
 
+![Workflow Architecture](https://github.com/vivekdev-n8n/Airtable-Lead-Capture-System-Essential/blob/efcb3556891e8a3f00111a5deb6bbae162eebb6c/Airtable%20Lead%20Capture%20Essential%20Edition-Workflow.jpg)
+
 ---
 
 ## 🎯 Core Benefits
