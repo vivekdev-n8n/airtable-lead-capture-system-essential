@@ -3,7 +3,7 @@
 **Stop manually copy-pasting leads. Automate your entire lead capture system in 15 minutes.**
 
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](https://github.com/vivekdev-n8n)
-[![n8n](https://img.shields.io/badge/n8n-v1.0+-blueviolet.svg)](https://n8n.io)
+[![n8n](https://img.shields.io/badge/n8n-Essential-blueviolet.svg)](https://n8n.io)
 [![Airtable](https://img.shields.io/badge/Airtable-Ready-green.svg)](https://airtable.com)
 [![Price](https://img.shields.io/badge/price-$127-success.svg)](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)
 
