@@ -319,7 +319,7 @@ You may NOT:
 - Support my work (builds trust for future buyers)
 - Bookmark for later (when you're ready to automate)
 
-**[⭐ Star this repo now](https://github.com/vivekdev-n8n/Airtable-Lead-Capture-System-Essential/stargazers)**
+**[⭐ Star this repo now](https://github.com/vivekdev-n8n/airtable-lead-capture-system-essential/stargazers)**
 
 ---
 
@@ -362,9 +362,9 @@ You may NOT:
 
 ## 📊 Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/vivekdev-n8n/Airtable-Lead-Capture-System-Essential?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/vivekdev-n8n/Airtable-Lead-Capture-System-Essential?style=social)
-![GitHub forks](https://img.shields.io/github/forks/vivekdev-n8n/Airtable-Lead-Capture-System-Essential?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vivekdev-n8n/airtable-lead-capture-system-essential?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/vivekdev-n8n/airtable-lead-capture-system-essential?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vivekdev-n8n/airtable-lead-capture-system-essential?style=social)
 
 ---
 
