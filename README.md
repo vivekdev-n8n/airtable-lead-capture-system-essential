@@ -327,7 +327,7 @@ You may NOT:
 
 - 🛒 **Buy Now:** [Gumroad Product Page](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)
 - 📘 **Documentation:** Included in purchase (60+ pages)
-- 💬 **Support:** [LinkedIn DM](https://www.linkedin.com/in/vivek-n8n-dev)
+- 💬 **Support:** [Vivek Kumar - n8n Automation Expert](https://www.linkedin.com/in/vivek-n8n-dev)
 - 🎓 **My Other Products:** [Gumroad Store](https://vivekn8ndev.gumroad.com/)
 
 ---
